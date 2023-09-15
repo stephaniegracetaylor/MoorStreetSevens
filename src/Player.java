@@ -72,6 +72,4 @@ public class Player {
     public void removeScore(int round) {
         scores.remove(round - 1);
     }
-
-
 }
